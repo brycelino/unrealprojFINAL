@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPS_11.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1F7AD3AD-08AA-4074-8234-EDE53979F3C9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPS_11.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPS_11Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8B8214EC-567C-4F0A-B201-5DF5B59E2861}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FPS_11">
+      <UniqueIdentifier>{76300A44-3C88-40C7-AAB8-56E1CC9B4EA2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPS_11\Center.cpp">
+      <Filter>Source\FPS_11</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_11\Center.h">
+      <Filter>Source\FPS_11</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\FPS_11\FPS_11.Build.cs">
+      <Filter>Source\FPS_11</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FPS_11\FPS_11.cpp">
+      <Filter>Source\FPS_11</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_11\FPS_11.h">
+      <Filter>Source\FPS_11</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_11\FPS_11Character.cpp">
+      <Filter>Source\FPS_11</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_11\FPS_11Character.h">
+      <Filter>Source\FPS_11</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_11\FPS_11GameMode.cpp">
+      <Filter>Source\FPS_11</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_11\FPS_11GameMode.h">
+      <Filter>Source\FPS_11</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_11\FPS_11HUD.cpp">
+      <Filter>Source\FPS_11</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_11\FPS_11HUD.h">
+      <Filter>Source\FPS_11</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_11\FPS_11Projectile.cpp">
+      <Filter>Source\FPS_11</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_11\FPS_11Projectile.h">
+      <Filter>Source\FPS_11</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_11\Sensor.cpp">
+      <Filter>Source\FPS_11</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_11\Sensor.h">
+      <Filter>Source\FPS_11</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

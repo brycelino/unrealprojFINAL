@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealEngineProj\\FPS_11\\Source\\FPS_11\\FPS_11.Build.cs",
+		"D:\\UnrealEngineProj\\FPS_11\\Source\\FPS_11.Target.cs",
+		"D:\\UnrealEngineProj\\FPS_11\\Source\\FPS_11Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
